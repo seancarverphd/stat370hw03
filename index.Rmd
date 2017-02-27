@@ -8,8 +8,8 @@ output: html_document
 
 Point your browser to http://stat370.com/.  This link will bring up a wiki, which you will be able to edit with links to your work on the server.  To edit the wiki, and to put your work on the server, you will need accounts which I will help you set up.  I'll need about one minute for each person, and I will call you up one at a time.  While you are waiting, think of a username and two **strong** and different passwords, follow these steps, and more detailed instructions on the wiki, to put your work online.  You can get started with these instructions before you have accounts.
 
-1. Create a new repository on Github for this homework 3.  For the name, don't use any spaces or special charaters, and it shouldn't be too long.  The repository name will be in the URL for your page.   "HW03" is fine---it is OK if two or more people have the same name for a project---your username will also be in the URL.
-2. Create a new project in R-Studio that pulls in your HW03 repository.  After the project exists on your computer, you can just open it.
+1. Create a new repository on Github for this homework 3.  For the name, don't use any spaces or special charaters, and it shouldn't be too long.  The repository name will be in the URL for your page.   "hw03" is fine---it is OK if two or more people have the same name for a project---your username will also be in the URL.
+2. Create a new project in R-Studio that pulls in your hw03 repository.  After the project exists on your computer, you can just open it.
 3. Create a New File, and make it an R-Markdown file.  Choose to make it an html document. That will give you a template.
 4. Save the template as "index.Rmd".
 5. Knit "index.Rmd" to create the file "index.html".  The webserver will automatically look for the file "index.html".  If you call your file anything other than "index.Rmd", you will also have to put your filename into the URL, which is often not desired.  
